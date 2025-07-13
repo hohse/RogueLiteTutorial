@@ -1,0 +1,22 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+.venv/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# IDE
+*.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Saved games
+*.sav
