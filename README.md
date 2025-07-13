@@ -1,5 +1,9 @@
 # RogueLiteTutorial
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Status](https://img.shields.io/badge/status-learning-informational)
+![tcod](https://img.shields.io/badge/based_on-tcod_tutorial-green)
+
 🎮 Ein kleines Roguelike-Spiel in Python – entstanden im Rahmen des [tcod Roguelike-Tutorials](https://rogueliketutorials.com/tutorials/tcod/), Schritt für Schritt umgesetzt und mit viel Freude ausprobiert.
 
 ## Was ist das?
