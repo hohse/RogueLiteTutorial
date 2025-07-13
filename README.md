@@ -25,3 +25,39 @@ Oder die einfach gerne durch Dungeons streift und ASCII-Monster vermöbelt.
    ```bash
    python -m venv .venv
    source .venv/bin/activate  # oder .venv\Scripts\activate unter Windows
+   ```
+3. Abhängigkeiten installieren:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Spiel starten:
+   ```bash
+   python main.py
+   ```
+
+## Abhängigkeiten
+
+Alle benötigten Pakete sind in der Datei `requirements.txt` aufgelistet.  
+Darin enthalten sind unter anderem:
+
+```
+tcod==18.1.0
+numpy==2.0.2
+cffi==1.17.1
+pycparser==2.22
+typing_extensions==4.14.1
+```
+
+## Noch nicht enthalten
+
+- Sound  
+- Grafiken  
+- Windows-exe  
+- Tieferes Verständnis 😉
+
+Aber hey – das kommt vielleicht später.
+
+## Lizenz
+
+Da es sich im Kern um Tutorial-Code handelt, orientiert sich dieses Projekt an der Lizenz des Original-Tutorials.  
+Für alles Weitere gilt: Feel free to fork, spielen, anpassen, kaputtmachen und wieder reparieren.
